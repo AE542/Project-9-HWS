@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "A4A7733F-91F5-47A7-AEB8-5147C89CBC39"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "4151F398-097F-46CF-BE18-BDB2691CC46D"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Project7 R/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "161"
+            endingLineNumber = "161"
+            landmarkName = "filterResults()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "4151F398-097F-46CF-BE18-BDB2691CC46D - 59e2dc4a409563bc"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 () -&gt; () in Project7_R.ViewController.filterResults() -&gt; ()"
+                  moduleName = "Project7 R"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/srx/Downloads/Hacking%20with%20iOS/Project7%20R/Project7%20R/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "160"
+                  endingLineNumber = "160"
+                  offsetFromSymbolStart = "362">
+               </Location>
+               <Location
+                  uuid = "4151F398-097F-46CF-BE18-BDB2691CC46D - 796ed88a2e080c1c"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (__C.UIAlertAction) -&gt; () in closure #1 () -&gt; () in Project7_R.ViewController.filterResults() -&gt; ()"
+                  moduleName = "Project7 R"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/srx/Downloads/Hacking%20with%20iOS/Project7%20R/Project7%20R/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "160"
+                  endingLineNumber = "160"
+                  offsetFromSymbolStart = "168">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
